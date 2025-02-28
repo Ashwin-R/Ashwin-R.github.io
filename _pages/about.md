@@ -5,8 +5,8 @@ permalink: /
 subtitle: Assistant Professor, Department of Communication Studies, UT Austin
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
