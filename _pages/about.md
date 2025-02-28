@@ -18,7 +18,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I’m an Assistant Professor at the Department of Communication Studies, Moody College of Communication at the University of Texas, Austin. I study how people engage with politics online. I am interested in how online spaces can foster spirited, engaging political discussions and contribute to building a vibrant deliberative democracy. I combine large-scale computational methods with qualitative interviews to (re)design online spaces to facilitate quality online political interactions.
