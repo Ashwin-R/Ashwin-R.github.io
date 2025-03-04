@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+These are courses I've taught or am teaching at UT Austin. Please reach out if you would like to see the syllabus.
 
-Organize your courses by years, topics, or universities, however you like!
+
+Undergraduate courses:
+- Social Media and Politics (Spring 2023, Fall 2024)
+- Social Media Analysis (Fall 2023, Fall 2024, Fall 2025)
+
+
+Graduate courses:
+- Computational Methods (Spring 2023)
+- Political Polarization: Causes, Consequences, and Solutions (Fall 2025)
