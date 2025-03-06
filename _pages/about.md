@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -24,6 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m an Assistant Professor at the Department of Communication Studies, Moody College of Communication at the University of Texas, Austin. I study how people engage with politics online. I am interested in how online spaces can foster spirited, engaging political discussions and contribute to building a vibrant deliberative democracy. I combine large-scale computational methods with qualitative interviews to (re)design online spaces to facilitate quality online political interactions.
+I am a **computational social scientist** interested in how people engage with politics online. My research is focussed on how online spaces can foster spirited, engaging political discussions and contribute to building a **vibrant deliberative democracy**. I often combine large-scale computational methods with qualitative interviews to (re)design online spaces to facilitate quality online political interactions.
 
-I received my PhD in Information from the University of Michigan. Before starting my PhD, I worked at Doximity, a social network for medical professionals, as a data scientist for a few years. I have a Masters degree in Computer Science from Arizona State University. Before that, I completed my Bachelors degree in Computer Science from VIT University, India.
+At UT, I’m an Assistant Professor at the [Department of Communication Studies](https://commstudies.utexas.edu/), Moody College of Communication. I am a faculty associate at the [Center for Media Engagement](https://mediaengagement.org/) and also have a courtesy appointment at the [Information School](https://ischool.utexas.edu/).
+
+
+I hold a PhD in Information from the University of Michigan, an MS from Arizona State and a BTech from VIT University, India, both in Computer Science. Before my PhD, I worked as a data scientist at [Doximity](https://www.doximity.com/).
+
+

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-03-05 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+🚨Come work with me!🚨 I am looking to hire a fulltime predoctoral fellow with solid programming/ML experience to work with me on projects related to media and politics. Would be ideal for someone interested in conducting research and planning to apply to PhD programs in the next cycle. Please reach out with your resume at arajades@utexas.edu!
