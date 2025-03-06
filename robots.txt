@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.ashwinrajadesingan.com/sitemap.xml
+Sitemap: https://ashwinrajadesingan.com/sitemap.xml
