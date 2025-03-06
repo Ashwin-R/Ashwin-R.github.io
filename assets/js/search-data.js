@@ -375,16 +375,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-we-have-two-papers-accepted-at-web-sci-25-one-on-conflict-news-framing-in-indian-elections-news-and-the-other-on-the-link-between-personal-narratives-and-inclusion-in-political-discussions-both-projects-were-led-by-tejasvi-chebrolu-a-visiting-master-s-student-at-ut-from-iiit-hyderabad",
+          title: 'We have two papers accepted at Web Sci’25, one on conflict news framing...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-delighted-to-receive-wsdm-s-test-of-time-award-this-year-for-our-2015-paper-on-sarcasm-detection-which-was-based-on-my-master-s-thesis",
+          title: 'Delighted to receive WSDM’s test-of-time award this year for our 2015 paper on...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-come-work-with-me-i-am-looking-to-hire-a-fulltime-predoctoral-fellow-with-solid-programming-ml-experience-to-work-with-me-on-projects-related-to-media-and-politics-would-be-ideal-for-someone-interested-in-conducting-research-and-planning-to-apply-to-phd-programs-in-the-next-cycle-please-reach-out-with-your-resume-at-arajades-utexas-edu",
+          title: '🚨Come work with me!🚨 I am looking to hire a fulltime predoctoral fellow...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
