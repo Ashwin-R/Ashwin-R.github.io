@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 These are courses I've taught or am teaching at UT Austin. Please reach out if you would like to see the syllabus.
