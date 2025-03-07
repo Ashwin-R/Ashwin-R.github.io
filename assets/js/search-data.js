@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-hiring",
+          title: "Hiring",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/hiring";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -381,7 +388,7 @@ ninja.data = [{
           section: "News",},{id: "news-delighted-to-receive-wsdm-s-test-of-time-award-this-year-for-our-2015-paper-on-sarcasm-detection-which-was-based-on-my-master-s-thesis",
           title: 'Delighted to receive WSDM’s test-of-time award this year for our 2015 paper on...',
           description: "",
-          section: "News",},{id: "news-come-work-with-me-i-am-looking-to-hire-a-fulltime-predoctoral-fellow-with-solid-programming-ml-experience-to-work-with-me-on-projects-related-to-media-and-politics-would-be-ideal-for-someone-interested-in-conducting-research-and-planning-to-apply-to-phd-programs-in-the-next-cycle-please-reach-out-with-your-resume-at-arajades-utexas-edu",
+          section: "News",},{id: "news-come-work-with-me-i-am-looking-to-hire-a-fulltime-predoctoral-fellow-with-solid-programming-ml-experience-to-work-with-me-on-projects-related-to-media-and-politics-would-be-ideal-for-someone-interested-in-conducting-research-and-planning-to-apply-to-phd-programs-in-the-next-cycle-more-details-here-please-reach-out-at-arajades-utexas-edu",
           title: '🚨Come work with me!🚨 I am looking to hire a fulltime predoctoral fellow...',
           description: "",
           section: "News",},{id: "projects-project-1",
