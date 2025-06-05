@@ -24,11 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **computational social scientist** interested in how people engage with politics online. My research is focussed on how online spaces can foster spirited, engaging political discussions and contribute to building a **vibrant deliberative democracy**. I often combine large-scale computational methods with qualitative interviews to (re)design online spaces to facilitate quality online political interactions.
+I am a social media researcher focused on how online spaces can foster spirited, engaging political discussions and contribute to building a **vibrant deliberative democracy**. I employ large-scale computational methods to inform the (re)design of online spaces that support quality online political interactions.
 
-At UT, I’m an Assistant Professor at the [Department of Communication Studies](https://commstudies.utexas.edu/), Moody College of Communication. I am a faculty associate at the [Center for Media Engagement](https://mediaengagement.org/) and also have a courtesy appointment at the [Information School](https://ischool.utexas.edu/).
-
-
-I hold a PhD in Information from the University of Michigan, an MS from Arizona State and a BTech from VIT University, India, both in Computer Science. Before my PhD, I worked as a data scientist at [Doximity](https://www.doximity.com/).
-
+At UT, I’m an Assistant Professor at the [Department of Communication Studies](https://commstudies.utexas.edu/), Moody College of Communication. I am a faculty associate at the [Center for Media Engagement](https://mediaengagement.org/) and also have a courtesy appointment at the [Information School](https://ischool.utexas.edu/). I hold a PhD in Information from the University of Michigan, an MS from Arizona State and a BTech from VIT University, India, both in Computer Science.
 
