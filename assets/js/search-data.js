@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-hiring",
-          title: "Hiring",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hiring";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -388,7 +381,7 @@ ninja.data = [{
           section: "News",},{id: "news-delighted-to-receive-wsdm-s-test-of-time-award-this-year-for-our-2015-paper-on-sarcasm-detection-which-was-based-on-my-master-s-thesis",
           title: 'Delighted to receive WSDM’s test-of-time award this year for our 2015 paper on...',
           description: "",
-          section: "News",},{id: "news-come-work-with-me-i-am-looking-to-hire-a-fulltime-predoctoral-fellow-with-solid-programming-ml-experience-to-work-with-me-on-projects-related-to-media-and-politics-would-be-ideal-for-someone-interested-in-conducting-research-and-planning-to-apply-to-phd-programs-in-the-next-cycle-more-details-here-please-reach-out-at-arajades-utexas-edu",
+          section: "News",},{id: "news-come-work-with-me-i-am-looking-to-hire-a-fulltime-predoctoral-fellow-with-solid-programming-ml-experience-to-work-with-me-on-projects-related-to-media-and-politics-would-be-ideal-for-someone-interested-in-conducting-research-and-planning-to-apply-to-phd-programs-in-the-next-cycle-position-closed",
           title: '🚨Come work with me!🚨 I am looking to hire a fulltime predoctoral fellow...',
           description: "",
           section: "News",},{id: "news-delighted-to-receive-acm-websci-s-best-paper-award-honorable-mention-this-year-for-our-paper-on-personal-narratives-congrats-tejasvi-our-lead-author",
@@ -396,6 +389,18 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-delighted-to-receive-a-top-paper-award-at-ica-s-computational-methods-division-for-our-work-on-personal-narratives-in-cross-partisan-online-interactions-congrats-tejasvi-my-co-author-on-this-project",
           title: 'Delighted to receive a Top Paper Award at ICA’s computational methods division for...',
+          description: "",
+          section: "News",},{id: "news-new-paper-out-in-icwsm-shifting-gatekeeping-practices-and-audience-engagement-under-ai-assisted-comment-moderation",
+          title: 'New paper out in ICWSM: Shifting Gatekeeping Practices and Audience Engagement Under AI-Assisted...',
+          description: "",
+          section: "News",},{id: "news-new-paper-out-in-social-media-society-with-tejasvi-chebrolu-divisive-or-bridging-personal-stories-in-cross-cutting-political-discussions-on-reddit",
+          title: 'New paper out in Social Media + Society with Tejasvi Chebrolu: Divisive or...',
+          description: "",
+          section: "News",},{id: "news-new-paper-out-in-new-media-amp-amp-society-with-natalie-jomini-stroud-tamar-wilner-and-moo-sun-kim-a-cross-country-examination-of-normative-expectations-of-social-media-platforms",
+          title: 'New paper out in New Media &amp;amp;amp; Society with Natalie Jomini Stroud, Tamar...',
+          description: "",
+          section: "News",},{id: "news-new-paper-out-in-political-communication-common-identities-and-political-talk-evaluating-cross-cutting-political-discussions-in-sports-communities-on-reddit",
+          title: 'New paper out in Political Communication: Common Identities and Political Talk: Evaluating Cross-Cutting...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
