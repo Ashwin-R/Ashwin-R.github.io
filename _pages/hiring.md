@@ -3,7 +3,7 @@ layout: openings
 title: Hiring
 permalink: /hiring
 subtitle: 
-nav: true
+nav: false
 nav_order: 4
 
 ---
