@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper out in ICWSM: [Shifting Gatekeeping Practices and Audience Engagement Under AI-Assisted Comment Moderation](https://ojs.aaai.org/index.php/ICWSM/article/view/42731).
+New paper out in ICWSM! [Shifting Gatekeeping Practices and Audience Engagement Under AI-Assisted Comment Moderation](https://ojs.aaai.org/index.php/ICWSM/article/view/42731).
