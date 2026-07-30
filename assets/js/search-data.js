@@ -391,7 +391,7 @@ ninja.data = [{
           title: 'Delighted to receive a Top Paper Award at ICA’s computational methods division for...',
           description: "",
           section: "News",},{id: "news-new-paper-out-in-icwsm-shifting-gatekeeping-practices-and-audience-engagement-under-ai-assisted-comment-moderation",
-          title: 'New paper out in ICWSM! Shifting Gatekeeping Practices and Audience Engagement Under AI-Assisted...',
+          title: 'New paper out in ICWSM: Shifting Gatekeeping Practices and Audience Engagement Under AI-Assisted...',
           description: "",
           section: "News",},{id: "news-new-paper-out-in-social-media-society-with-tejasvi-divisive-or-bridging-personal-stories-in-cross-cutting-political-discussions-on-reddit",
           title: 'New paper out in Social Media + Society with Tejasvi! Divisive or Bridging?...',
